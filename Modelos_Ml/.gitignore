@@ -2,3 +2,6 @@ venv
 Lib
 Scripts
 Include
+bat
+exe
+pyvenv
