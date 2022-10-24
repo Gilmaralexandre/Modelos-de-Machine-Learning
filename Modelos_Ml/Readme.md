@@ -8,4 +8,5 @@
 - __Regressão Logistica__
 - __Formula MSE(função de custo)__
 - __Correlações com Seaborn__
-
+- __Decision Tree__
+- __Introdução a Emsembles__
